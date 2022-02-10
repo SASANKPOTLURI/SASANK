@@ -7,7 +7,7 @@
     "bootstrap": "^4.3.1",
     "install": "^0.13.0",
     "muicss": "^0.10.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.13.0",
     "react": "^16.11.0",
     "react-awesome-modal": "^2.0.5",
